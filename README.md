@@ -1,2 +1,2 @@
 # Chat en java multihilos
-Proyecto de inventario de abarrotes 
+Proyecto de chat multihilos con soporte para emojis
